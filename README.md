@@ -50,3 +50,4 @@ We need to calculate the similarity score belween tags
 5. python
 6. BeautifulSoup
 7. Requests
+8. NLTK
