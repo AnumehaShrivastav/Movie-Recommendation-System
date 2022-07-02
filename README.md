@@ -51,3 +51,4 @@ We need to calculate the similarity score belween tags
 6. BeautifulSoup
 7. Requests
 8. NLTK
+9. MySQL Connector/Python 
